@@ -1,4 +1,4 @@
-# Repositorio de tareas Métodos Matemáticos para Físicos I - Nicolás Santiago Espinosa Carrillo - 2240678
+# Repositorio de tareas Métodos Matemáticos para Físicos I
 
 ## Taller de problemas 1
 
